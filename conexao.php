@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "170805!MELANIEKASSADIN";
+$pass = "Senha";
 $db = "mini_erp";
 
 $conn = new mysqli($host, $user, $pass, $db);
